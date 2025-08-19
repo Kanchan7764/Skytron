@@ -30,7 +30,7 @@ export default function Header() {
               alt=""
               className="h-18 w-14"
             />
-            <h2 className="text-xl font-bold">AgriDronix</h2>
+            <h2 className="text-xl font-bold">SkyTron</h2>
           </div>
 
           {/* Navigation Links */}
