@@ -155,7 +155,7 @@ export default function Footer() {
             <p>
               © 2025{" "}
               <Link to="/" className="hover:underline font-medium text-white">
-                AgriDronix
+                SkyTron
               </Link>
               . All rights reserved.
             </p>
