@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-6 py-10">
           {/* Company Info (Top Center) */}
           <div className="text-center mb-10">
-            <h1 className="text-2xl font-bold">AgriDronix</h1>
+            <h1 className="text-2xl font-bold">SkyTron</h1>
             <p className="mt-2 text-gray-300 text-sm">
               Empowering technology for a better tomorrow.
             </p>
