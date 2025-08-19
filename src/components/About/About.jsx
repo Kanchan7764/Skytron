@@ -23,7 +23,7 @@ export default function About() {
         {/* Title */}
         <div className="w-[75%] mx-auto pb-4 mt-0">
           <h2 className="text-3xl md:text-5xl font-bold text-center text-gray-900">
-           AgriDronix
+           SkyTron
          </h2>
        </div>
         {/* Image Carousel (fixed height, in flow, not absolute) */}
@@ -51,7 +51,7 @@ export default function About() {
         {/* Description Below Carousel */}
         <div className="flex flex-col gap-6 px-4 md:px-12 max-w-3xl mx-auto mt-8">
           <p className="text-gray-600 text-justify leading-relaxed">
-            <span className="font-semibold text-gray-800">AgriDronix</span> was founded in 2019 by
+            <span className="font-semibold text-gray-800">SkyTron</span> was founded in 2019 by
               <b className="text-gray-800"> Anuj Deshmukh</b>, a mechanical engineer and a farmer’s son from
               Vidarbha, Maharashtra — a region plagued by droughts and agricultural
               distress.After pursuing his
@@ -61,7 +61,7 @@ export default function About() {
           <p className="text-gray-600 text-justify leading-relaxed">
             He observed that Indian farmers often lacked access to modern tools
             that could reduce manual labor, cut costs, and increase yields. With
-            this mission, AgriDronix emerged — to provide affordable, reliable,
+            this mission, SkyTron emerged — to provide affordable, reliable,
             and smart aerial solutions tailored to Indian agricultural needs.
          </p>
        </div>
@@ -84,7 +84,7 @@ export default function About() {
             {[
               {
                 year: "2021 — Foundation",
-                desc: "Argidronix was founded with a mission to revolutionize agriculture through drone innovation.",
+                desc: "SkyTron was founded with a mission to revolutionize agriculture through drone innovation.",
               },
               {
                 year: "2022 — First Product Launch",
